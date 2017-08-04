@@ -1,0 +1,27 @@
+{
+  "env": {
+    "development": {
+      "presets": [
+        ["env", {
+          "debug": true,
+          "modules": false,
+          "targets": { "browsers": "last 2 Chrome versions" },
+          "useBuiltIns": "usage",
+        }],
+      ],
+    },
+    "production": {
+      "presets": [
+        ["env", {
+          "debug": true,
+          "modules": false,
+          "targets": { "browsers": "last 2 versions" },
+          "useBuiltIns": "usage",
+        }],
+      ],
+    },
+    "test": {
+      "presets": ["env"],
+    },
+  },
+}

@@ -1,0 +1,42 @@
+{
+  "name": "creativewave/ps-cwbundle",
+  "description": "Prestashop module for bundling a product with other optional products.",
+  "type": "prestashop-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guillaume Lebas",
+      "email": "contact@creative-wave.fr"
+    }
+  ],
+  "autoload": {
+    "classmap": ["classes/"]
+  },
+  "extra": {
+    "installer-name": "cwbundle"
+  },
+  "dist": {
+      "type": "zip",
+      "url": "https://github.com/creativewave/ps-cwbundle/releases/download/v1.0.0/cwbundle.zip"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/creativewave/ps-module-configuration"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/creativewave/ps-objectmodel-extension"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1",
+    "creativewave/ps-module-configuration": "^1",
+    "creativewave/ps-objectmodel-extension": "^1",
+    "php": "^7"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^2",
+    "phpunit/phpunit": "^6"
+  }
+}
