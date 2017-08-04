@@ -1,0 +1,66 @@
+.bundle {
+  margin-top: 2em;
+}
+.bundle-headline,
+.bundled-product {
+  margin-bottom: 1em;
+}
+.bundle-headline {
+  font-size: 1.333em;
+  font-weight: bold;
+}
+.bundled-products {
+  display: flex;
+  flex-wrap: wrap;
+}
+.bundled-product {
+  margin-right: 1em;
+}
+.bundled-product .checker {
+  display: inline-block !important;
+}
+.bundled-product-qty {
+  width: 3em;
+  margin-right: 1em;
+  padding-left: 5px;
+  text-align: center;
+  line-height: 2;
+  border: 1px solid #e5e5e5;
+}
+.bundled-product-name {
+  width: 100% !important;
+  cursor: pointer;
+}
+.bundled-product-price,
+.bundled-product-old-price,
+.bundled-product-unit-price {
+  font-family: 'Fjalla One', Tahoma, sans-serif, Arial;
+  white-space: nowrap;
+}
+.bundled-product-price {
+  color: #f64c65;
+}
+.bundled-product-old-price {
+  /* todo */
+}
+.bundled-product-unit-price {
+  /* todo */
+}
+.bundled-product-tax-label {
+  /* todo */
+}
+.bundled-product-old-price-tax-label {
+  /* todo */
+}
+.bundled-product-ecotax-label {
+  /* todo */
+}
+.bundled-product-sale-percentage {
+  /* todo */
+}
+.bundled-product-sale-amount {
+  /* todo */
+}
+.bundled-product-pack-price {
+  /* todo */
+}

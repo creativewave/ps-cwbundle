@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{cwbundle}prestashop>cwbundle_a1e9b22a3bf358704c4ba068d711af65'] = 'Afficher les images des produits groupés';
+$_MODULE['<{cwbundle}prestashop>cwbundle_ff54b4878e368a9efcde4877df9e3361'] = 'Afficher les prix des produits groupés';
+$_MODULE['<{cwbundle}prestashop>cwbundle_b9f575d4e3451c42a4500e04da59cda1'] = 'Mode d\'affichage';
+$_MODULE['<{cwbundle}prestashop>cwbundle_fad67a3820f89a6d3ea5f3ebf2ceb0e4'] = 'Utiliser des cases à cocher pour ajouter les produits groupés';
+$_MODULE['<{cwbundle}prestashop>cwbundle_ce87094d0df7f7761ef458fa5bf981a5'] = 'Utiliser des sélecteurs de quantité pour ajouter les produits groupés';
+$_MODULE['<{cwbundle}prestashop>cwbundle_94c51f19c37f96ed231f5a0ae512b2a8'] = 'Produits groupés';
+$_MODULE['<{cwbundle}prestashop>cwbundle_b4c187c6a499cff21ae70aa6e14d14a6'] = 'Groupez un produit avec d\'autres produits optionnels.';
+$_MODULE['<{cwbundle}prestashop>cwbundle_876f23178c29dc2552c0b48bf23cd9bd'] = 'Êtes-vous sûr de vouloir désinstaller ce module ?';
+$_MODULE['<{cwbundle}prestashop>cwbundle_c258256857b75e1b961c28ddd46f7b2e'] = 'Une erreur est survenue lors de la sauvegarde des produits groupés.';
+$_MODULE['<{cwbundle}prestashop>cwbundle_69e9bcd85fcdebcc1b38881b7e1301e7'] = 'Une erreur est survenue lors de la suppression des produits groupés.';
+$_MODULE['<{cwbundle}prestashop>cwbundle_15f40b89d5757d18262d16370f045e2f'] = 'Une erreur est survenue lors de la copie des produits groupés.';
+$_MODULE['<{cwbundle}prestashop>configuration_c9cc8cce247e49bae79f15173ce97354'] = 'Sauvegarder';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_f8c9e7c3530ed5008ab044309f401ad7'] = 'Produits groupés';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_e12230385a48dc2ce0834ee384719701'] = 'Le titre pour les produits groupés';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_c6568e77f61109390e82d035aaacaef0'] = 'Titre';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_7b3ba88b3a89ac727eab96ceb5dc5f9f'] = 'Ces valeurs représentent celles associées à la boutique par défaut pour le contexte multiboutiques courant : ';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_a80b917df9a7dafd7b8c6d62be000a44'] = 'Vous pouvez indiquer que des produits existants peuvent être groupés avec ce produit.';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_50bbf9345b13fed00429c5d82c7d7d86'] = 'Commencez à saisir les premières lettres du nom du produit puis sélectionnez le produit dans le menu déroulant.';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_0b69ce3e0d8bbef5b8a2e3763655651b'] = 'N\'oubliez pas d\'enregistrer le produit ensuite !';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_30c4cb99368cfc09162c624594794d86'] = '(réf. : %s)';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_ea4788705e6873b424c65e91c2846b19'] = 'Annuler';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_c9cc8cce247e49bae79f15173ce97354'] = 'Enregistrer';
+$_MODULE['<{cwbundle}prestashop>admin-products-extra_9ea67be453eaccf020697b4654fc021a'] = 'Enregistrer et rester';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_887ee91702c962a70b87cbef07bbcaec'] = 'HT';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_e2e79605fc9450ec17957cf0e910f5c6'] = 'TTC';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_9a9a97ca85af73f90515e72745f730f0'] = 'Au lieu de';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_54d3b260d7e0e3377ff04b75bf564982'] = 'Dont';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_f85524c253c150e88136df3999ac3fd4'] = 'pour l\'éco-taxe';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_a134618182b99ff9151d7e0b6b92410a'] = '(non-impacté par la remise)';
+$_MODULE['<{cwbundle}prestashop>bundled-products-price_fe3838c7c11aa406dd956566e17360d5'] = 'par';
+$_MODULE['<{cwbundle}prestashop>bundled-products_d3da97e2d9aee5c8fbe03156ad051c99'] = 'En savoir plus';
+$_MODULE['<{cwbundle}prestashop>bundled-products_04325f5c10c9818bc464d660daa2b030'] = 'La quantité minimale pour commander ce produit est';
